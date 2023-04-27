@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Gymawy**
 
-- 🌱 I’m currently learning **Flutter | Dart**
-
 - bsmkallhom [bsmkallhom](https://play.google.com/store/apps/details?id=com.mohammed.gallya.Nakhtm_Quran)
 
 ## 📫 BusinessEmail :  *momen.elhamlawy@Cloudev-Solutions.com*
