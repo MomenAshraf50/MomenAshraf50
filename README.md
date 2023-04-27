@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Gymawy**
 
-## 📫 BusinessEmail :  *momen.elhamlawy@Cloudev-Solutions.com*
 ## 📫 PersonalEmail :  *momengad50@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
